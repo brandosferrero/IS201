@@ -1,0 +1,33 @@
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightpink;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2{
+  font-size: large;
+  color: rgb(0, 0, 0);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+h1{
+  font-size: large;
+  color: black;
+}
+.watches{
+  font-size: large;
+  color: black;
+  text-align: center;
+}
